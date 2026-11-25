@@ -1,0 +1,25 @@
+FControls3d Software License Agreement (Free & Pro Editions)
+Copyright (c) 2026 FControls3d. All rights reserved.
+
+IMPORTANT - READ CAREFULLY:
+This End-User License Agreement ("EULA") is a legal agreement between you (either an individual or a single legal entity, "Licensee") and FControls3d ("Licensor") for the FControls3d software library, including compiled assemblies, embedded assets, and documentation ("Software"). By installing, copying, or using the Software, you agree to be bound by the terms of this Agreement.
+
+1. GRANT OF LICENSE
+   a) Free Tier: Licensor grants Licensee a non-exclusive, worldwide, royalty-free license to evaluate and use the Software in personal, academic, or commercial applications strictly limited to a maximum of two (2) FControls3d controls per Form or UserControl.
+   b) Pro Tier: Upon payment of the applicable one-time license fee and receipt of a valid FControls3d Pro license key, Licensor grants Licensee a perpetual, non-exclusive, worldwide, royalty-free license for a single developer (up to two (2) development machines per license key) to use the Software with unlimited controls per Form or UserControl across unlimited projects and all v2.x releases.
+   c) End-User Distribution: Licensee may distribute the compiled FControls3d assembly strictly as an integrated runtime dependency within Licensee's compiled end-user applications.
+
+2. LICENSE KEY CONFIDENTIALITY & NON-TRANSFERABILITY
+   Each FControls3d Pro license key is strictly personal, confidential, and non-transferable. Licensee shall not publish, share, sell, sublicense, leak, or expose any Pro license key in any public forum, website, or public source code repository (including, without limitation, public GitHub, GitLab, or Bitbucket repositories). Any unauthorized sharing or public disclosure of a license key constitutes a material breach of this Agreement, resulting in immediate license revocation and legal prosecution to the fullest extent permitted by applicable copyright and intellectual property laws.
+
+3. RESTRICTIONS
+   Licensee shall not:
+   a) Reverse engineer, decompile, disassemble, or attempt to derive the source code, cryptographic algorithms, or embedded assets of the Software, except to the extent expressly permitted by applicable law.
+   b) Redistribute, sell, rent, lease, or package the Software (or any derivative UI component library) as a standalone SDK, NuGet package, or development tool for third-party developers.
+   c) Circumvent, bypass, or disable the licensing or usage-limit mechanisms built into the Software.
+
+4. INTELLECTUAL PROPERTY
+   The Software is licensed, not sold. All title, ownership rights, and intellectual property rights in and to the Software remain exclusively with FControls3d.
+
+5. DISCLAIMER OF WARRANTY & LIMITATION OF LIABILITY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL LICENSOR BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
